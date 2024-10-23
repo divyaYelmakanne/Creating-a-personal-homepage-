@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Divya Yelmakanne</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>DIVYA YELMAKANNE</h1>
+            <p class="tagline">Aspiring Developer | Passionate Learner | Learning Today, Leading Tomorrow</p>
+        </header>
+
+        <section class="bio">
+            <h2>ABOUT ME</h2>
+            <p>Hello! I'm Divya Yelmakanne, I love learning new things and exploring the world of coding, especially in fields like machine learning, AI, and software development.I am passionate about technology, problem-solving, and continuously learning new skills to build innovative solutions. With a keen interest in software development, AI and etc. I am excited to apply my knowledge to real-world challenges and grow as a future professional.</p>
+        </section>
+
+        <section class="hobbies">
+            <h2>HOBBIES</h2>
+            <ul>
+                <li>Programming and developing new projects</li>
+                <li>Learning new technologies</li>
+                <li>Playing games</li>
+                <li>Watching movies and analyzing genres</li>
+                <li>Listening to Music</li>
+                <li>Travelling</li>
+                <li>Adventure</li>
+                <li>Capturing Movements</li>
+                <li>Exploring distant lands</li>
+            </ul>
+        </section>
+
+        <section class="contact">
+            <h2>CONNECT WITH ME</h2>
+            <p>You can find me on these platforms:</p>
+            <ul class="social-links">
+                <li><a href="https://www.linkedin.com/in/divya-yelmakanne-40871525b" target="_blank">https://www.linkedin.com/in/divya-yelmakanne-40871525b</a></li>
+                <li><a href="https://github.com/divyaYelmakanne" target="_blank">https://github.com/divyaYelmakanne</a></li>
+            </ul>
+        </section>
+
+        <footer>
+            <p>&copy; 2024 Divya Yelmakanne. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+</html>
+
